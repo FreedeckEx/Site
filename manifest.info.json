@@ -1,0 +1,41 @@
+{
+  "channels": {
+    "repoId": {
+      "type": "repository",
+      "title": "Example repo for Freedeck",
+      "message": "Warning! This repo is fake and is not supposed to be used and may cause errors.",
+      "catalog": {
+        "id": {
+          "message": "Warning! This extension is fake and is not supposed to be used and WILL cause errors.",
+          "source": "github:ExampleDeveloper/ExamplePlugin",
+          "author": "Example Developer",
+          "title": "Example Plugin",
+          "description": "This is a very good plugin trust 🤑",
+          "version": "0.0.0",
+          "download": "https://github.com/ExampleDeveloper/ExamplePlugin/releases/latest/Example.Freedeck"
+        }
+      }
+    },
+    "externRepoId": {
+      "type": "repository_external",
+      "title": "Example external repo for Freedeck",
+      "message": "Warning! This repo is fake and is not supposed to be used and may cause errors.",
+      "catalog": "http://freedeckex.moonprod.me/repo.info.json"
+    },
+    "releaseId": {
+      "type": "release",
+      "description": "Example Freedeck releases",
+      "catalog": [
+        {
+          "current": true,
+          "version": "1.0.1",
+          "desc": "Current example release"
+        },
+        {
+          "version": "1.0.0",
+          "desc": "Example release"
+        }
+      ]
+    }
+  }
+}

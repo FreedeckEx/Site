@@ -1,0 +1,12 @@
+{
+    "channels": {
+        "repoId": {
+            "type": "repository",
+            "title": "Example repo for Freedeck",
+            "message": "Warning! This repo is fake and is not supposed to be used and may cause errors.",
+            "catalog": {
+
+            }
+        }
+    }
+}
