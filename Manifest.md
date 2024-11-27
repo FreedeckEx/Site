@@ -103,16 +103,16 @@ A multi-line text format (`.fdr.txt`) that contains repository information and m
 ### Structure
 ```
 repositoryName
-extensionDownload,!extensionGithubRepo,!extensionName,!extensionAuthor,!extensionVersionNumber,!extensionDescription,!extensionIdentifier
-[additional extensions on new lines...]
+pluginDownload,!pluginGithubRepo,!pluginName,!pluginAuthor,!pluginVersionNumber,!pluginDescription,!pluginIdentifier
+[additional plugins on new lines...]
 ```
 
 ### Fields
 1. Repository name (Line 1)
-2. Extension details (Line 2 onwards, each extension on a new line, fields separated by `,!`):
+2. Plugin details (Line 2 onwards, each plugin on a new line, fields separated by `,!`):
    - Download URL (no prefix)
    - GitHub repository
-   - Extension name
+   - Plugin name
    - Author
    - Version number
    - Description
@@ -156,7 +156,7 @@ downloads/weather.Freedeck,!example/weather,!Weather Plugin,!Example Dev,!1.0.0,
 |---------|----|----|-----|
 | Format | JSON | .fdr.txt (multi-line) | .idx (line-based) |
 | File Extension | .json | .fdr.txt | .idx |
-| Multiple Extensions | Yes | Yes (one per line) | Yes (one per line) |
+| Multiple Plugins | Yes | Yes (one per line) | Yes (one per line) |
 | Repository Name | Yes | Yes | No |
 | Multiple Repositories | Yes | No | No |
 | External Repositories | Yes | No | No |
