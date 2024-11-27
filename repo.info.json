@@ -1,0 +1,18 @@
+{
+    "message": "Warning! This repo is fake and is not supposed to be used and may cause errors. (warning on repo access(when marketplace is opened)) (THIS IS REMOVABLE)",
+    "Channels": [
+        {
+            "id": "release",
+            "Description": "Placeholder repo for Freedeck",
+            "Repo": {
+                "PlaceholderExtension(id)": {
+                    "Name": "Placeholder Extension",
+                    "Description": "The best extension to ever exist!",
+                    "Download": "https://github.com/PlaceholderAuthor/PlaceholderRepo/download/v1.0.0/PlaceholderExtension.Freedeck",
+                    "Repo": "https://github.com/PlaceholderAuthor/PlaceholderRepo",
+                    "Version": "1.0.0"
+                }
+            }
+        }
+    ]
+}

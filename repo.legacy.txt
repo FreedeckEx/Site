@@ -1,0 +1,2 @@
+Official FreedeckEx Repository
+https://github.com/ExamplePlugin/GithubRepo/releases/latest/Example.Freedeck,!ExamplePlugin/GithubRepo,!Example Plugin,!Carot,!0,!This is an example plugin.,!ExamplePlugin

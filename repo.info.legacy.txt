@@ -1,0 +1,2 @@
+repoName
+extensionDownload,!extensionGithubRepo,!extensionName,!extensionAuthor,!extensionVersionNumber,!extensionDescription,!extensionIdentifier

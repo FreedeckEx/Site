@@ -1,0 +1,18 @@
+{
+    "Channels": [
+        {
+            "id": "release",
+            "Description": "FreedeckEx Repo",
+            "Repo": {
+
+            }
+        },
+        {
+            "id": "beta",
+            "Description": "FreedeckEx Repo Beta",
+            "Repo": {
+                
+            }
+        }
+    ]
+}
