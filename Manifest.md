@@ -155,7 +155,7 @@ downloads/weather.Freedeck,!example/weather,!Weather Plugin,!Example Dev,!1.0.0,
 | Feature | V3 | V2 | V1 |
 |---------|----|----|-----|
 | Format | JSON | .fdr.txt (multi-line) | .idx (line-based) |
-| File Plugin | .json | .fdr.txt | .idx |
+| File Extension | .json | .fdr.txt | .idx |
 | Multiple Plugins | Yes | Yes (one per line) | Yes (one per line) |
 | Repository Name | Yes | Yes | No |
 | Multiple Repositories | Yes | No | No |
