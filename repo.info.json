@@ -9,10 +9,11 @@
                 "PlaceholderExtension(id)": {
                     "message": "Warning! This extension is fake and is not supposed to be used and WILL cause errors. (warning on extension install(displays with 'Are you sure?' as the title)) (THIS IS REMOVABLE)",
                     "Name": "Placeholder Extension",
+                    "Author": "Placeholder Developer",
                     "Description": "The best extension to ever exist!",
+                    "Version": "1.0.0",
                     "Download": "https://github.com/PlaceholderAuthor/PlaceholderRepo/download/v1.0.0/PlaceholderExtension.Freedeck",
-                    "Repo": "https://github.com/PlaceholderAuthor/PlaceholderRepo",
-                    "Version": "1.0.0"
+                    "Repo": "https://github.com/PlaceholderAuthor/PlaceholderRepo"
                 }
             }
         }

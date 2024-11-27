@@ -3,16 +3,12 @@
         {
             "id": "release",
             "Description": "FreedeckEx Repo",
-            "Repo": {
-
-            }
+            "Repo": {}
         },
         {
             "id": "beta",
             "Description": "FreedeckEx Repo Beta",
-            "Repo": {
-                
-            }
+            "Repo": {}
         }
     ]
 }
