@@ -1,9 +1,17 @@
 {
     "channels": {
-        "repoId": {
+        "stable": {
             "type": "repository",
-            "title": "Example repo for Freedeck",
-            "message": "Warning! This repo is fake and is not supposed to be used and may cause errors.",
+            "title": "FreedeckEx Repo",
+            "message": "Warning! This repo doesn't have any content, and is not supposed to be used, and may cause errors.",
+            "catalog": {
+
+            }
+        },
+        "beta": {
+            "type": "repository",
+            "title": "FreedeckEx Beta Repo",
+            "message": "Warning! This is the beta version of FreedeckEx and therefore may cause errors.",
             "catalog": {
 
             }
