@@ -110,7 +110,7 @@ pluginDownload,!pluginGithubRepo,!pluginName,!pluginAuthor,!pluginVersionNumber,
 ### Fields
 1. Repository name (Line 1)
 2. Plugin details (Line 2 onwards, each plugin on a new line, fields separated by `,!`):
-   - Download URL (no prefix)
+   - Download URL
    - GitHub repository
    - Plugin name
    - Author
