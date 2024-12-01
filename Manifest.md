@@ -43,6 +43,8 @@ A JSON-based format supporting multiple channels and repository types.
 {
   "type": "release",
   "description": string,
+  "source": string,
+  "branch": string,
   "catalog": [
     {
       "current": boolean (optional),
@@ -79,6 +81,8 @@ A JSON-based format supporting multiple channels and repository types.
     },
     "releases": {
       "type": "release",
+      "source": "https://github.com/Freedeck/Freedeck",
+      "branch": "v6",
       "description": "Example Release Channel",
       "catalog": [
         {
